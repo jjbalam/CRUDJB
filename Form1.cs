@@ -1,4 +1,4 @@
-﻿// Integrantes: Joose Julian Balam Ruiz(22887029),Marco Emmanuel Ramirez Cruz(21887056),Roque Farrera Jesus Eduardo ()
+﻿// Integrantes: Joose Julian Balam Ruiz(22887029),Marco Emmanuel Ramirez Cruz(21887056),Roque Farrera Jesus Eduardo (22887020)
 //A5.3- Desarrollo de una aplicacion para la gestion de datos
 //4E
 
